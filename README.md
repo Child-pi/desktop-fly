@@ -5,6 +5,12 @@
 <h1 align="center">DesktopFly 🪰</h1>
 
 <p align="center">
+  <a href="https://colab.research.google.com/github/Child-pi/desktop-fly/blob/master/desktop_fly_colab.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+<p align="center">
 A 3D fruit fly that lives on your macOS desktop, with spiking simulations
 built from <a href="https://codex.flywire.ai">FlyWire</a> brain wiring and
 the <a href="https://male-cns.janelia.org/">MaleCNS</a> brain-to-leg network.
